@@ -3,5 +3,6 @@
 + 原书籍如下：
   
 ![书籍展示](https://github.com/zlyd-CV/Photos-Are-Used-To-Others-Repository/blob/1bdcffe9cf68da7979587303d50695e8ddac2329/Python-VTK-Tutorial/%E4%B9%A6%E5%90%8D.jpg)
-+ 最后一次更新时间：2025年11月4日
-+ 更新内容：上传第一个代码程序
++ 最后一次更新时间：2025年11月8日
++ 更新内容:上传第四章前5个代码程序
++ 问题说明:我上传了官方群里的代码和数据资料,但他们随着vtk版本的迭代部分代码已不再使用当前作者的vtk版本(9.5.0),这将会在上传的注释版本得到修复
